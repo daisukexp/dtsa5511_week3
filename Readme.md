@@ -1,0 +1,4 @@
+# Histopathologic Cancer Detection using Convolutional Neural Networks
+For the assignment of week 3, we have a mini-project where we will participate in the Kaggle competition: Histopathologic Cancer Detection. This competition presents a binary image classification problem, where our objective is to identify metastatic cancer in small image patches taken from larger digital pathology scans.
+The dataset is comprised of 220,025 TIFF images, each with dimensions of 96x96x3. These images are labeled with binary values: '1' indicates the presence of cancer, while '0' denotes its absence. Additionally, there are 57,458 unlabeled test images.
+We will develop CNN models to classify the test images, and the performance of these models will be assessed based on their accuracy scores when submitted to the competition.
